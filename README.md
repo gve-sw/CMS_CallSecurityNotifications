@@ -70,7 +70,7 @@ An application to notify participants in a CMS call about different security lev
 
 
 ## License
-Provided under Cisco Sample Code License, for details see [LICENSE](./LICENSE).
+Provided under Cisco Sample Code License, for details see [LICENSE](./LICENSE.md).
 
 
 
